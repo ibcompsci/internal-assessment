@@ -1,6 +1,5 @@
 /*
  * A program to read the contents of a CSV file.
- * Note: This feature could be used to increase the complexity of your IA solution.
  */
 
 import java.io.BufferedReader;
